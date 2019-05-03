@@ -19,9 +19,13 @@ scripts and binaries, and modifies the host as required.
 
 Want to dive right in? See [here](doc/README.md) for further Glazier documentation.
 
+
+
 ## Why Glazier?
 
 Glazier was created with the following 3 core principles in mind:
+
+
 
 ### Text-based & Code-driven
 
@@ -47,6 +51,8 @@ advanced of a distribution platform as you need. Run it from a simple free web
 server or a large cloud-based CDN. HTTPS is a requirement.
 
 Proxies make it easy to accelerate image deployment to remote sites.
+
+
 
 ### Extensibility
 
